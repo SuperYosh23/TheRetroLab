@@ -1,0 +1,70 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #111;
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #222;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #0ff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+h2 {
+  border-bottom: 2px solid #444;
+  padding-bottom: 0.5rem;
+}
+
+article {
+  margin-bottom: 2rem;
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+article img {
+  width: 500px;
+  height: auto;
+  display: block;
+  margin-top: 0.5rem;
+  border-radius: 4px;
+}
+
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #222;
+  font-size: 0.9rem;
+}
+
+#downloads ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#downloads li {
+  margin-bottom: 1rem;
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+#downloads a {
+  color: #0ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
